@@ -1,11 +1,14 @@
 # Semi-Auto-Segmentation-Labelling-System
-Author: Xu Liu          Date: 02/18/2019
+Author: Xu Liu             
+Date: 02/18/2019
 
 
 This is a semi-auto labelling software for those who work on image labelling.   
 
 
-Input: Click the "Open" button, open the "image" directory and select the first image to start. After this step, the left canvas will display the original image with 50% transparence colored label on it. And the right canvas will display the labelled image with totally black ground and colorful foreground (one color, one instance).  All the images in the "image" directory are the outputs(aka. prediction) of the segmentation deep neural network and are located at the "masks" directory. Most parts of the right image are labelled correctly by the neural network, what we need to do is just to revise it slightly.   
+Input: 
+Click the "Open" button, open the "image" directory and select the first image to start. After this step, the left canvas will display the original image with 50% transparence colored label on it. And the right canvas will display the labelled image with totally black ground and colorful foreground (one color, one instance).  
+All the images in the "image" directory are the outputs(aka. prediction) of the segmentation deep neural network and are located at the "masks" directory. Most parts of the right image are labelled correctly by the neural network, what we need to do is just to revise it slightly.   
 
 
 Instructions:  
