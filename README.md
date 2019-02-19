@@ -1,6 +1,7 @@
 # Semi-Auto-Segmentation-Labelling-System
-Author: Xu Liu
-Date: 02/18/2019
+Author: Xu Liu          Date: 02/18/2019
+
+
 This is a semi-auto labelling software for those who work on image labelling.   
 
 
