@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/1.jpg</file>
+        <file>images/2.jpg</file>
+        <file>images/3.jpg</file>
+        <file>images/4.png</file>
+        <file>images/5.jpg</file>
+        <file>images/btn.png</file>
+        <file>images/btn1.png</file>
+        <file>images/btn2.png</file>
+        <file>images/btn3.png</file>
+        <file>images/btn4.png</file>
+        <file>images/btn5.jpg</file>
+        <file>images/btn6.png</file>
+        <file>images/empty.jpg</file>
+        <file>images/exit.png</file>
+        <file>images/green_bg.jpg</file>
+        <file>images/instance.png</file>
+        <file>images/leaf_bg.jpg</file>
+        <file>images/logo.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/save-as.png</file>
+        <file>images/semantic.png</file>
+        <file>images/table_bg.jpg</file>
+        <file>images/table_bg.jps</file>
+        <file>images/bg1.jpg</file>
+        <file>images/bg2.jpg</file>
+        <file>images/color1.png</file>
+        <file>images/color2.jpg</file>
+        <file>images/color3.png</file>
+    </qresource>
+</RCC>
