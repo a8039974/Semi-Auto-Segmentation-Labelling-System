@@ -2,9 +2,7 @@
 Author: Xu Liu             
 Date: 02/18/2019
 
-
 This is a semi-auto labelling software for those who work on image labelling.   
-
 
 Input: 
 Click the "Open" button, open the "image" directory and select the first image to start. After this step, the left canvas will display the original image with 50% transparence colored label on it. And the right canvas will display the labelled image with totally black ground and colorful foreground (one color, one instance).  
@@ -21,3 +19,37 @@ Instructions:
 4. Click "Save" button on the right can save the revised image (the right one) as a 3 channels, 8 unsigned bits  PNG format file at the "output" directory, which is in the same directory as the "images" directory.   
 
 5. Click "Next" button then the two canvas can refresh and load the next pair: image and label. Then just repeat the above operations.
+
+
+
+半自动分割标注系统说明手册
+Semi-Auto Segmentation Labelling System Manual
+
+整体布局：
+
+初始界面：
+
+软件说明书：
+点击Instruction，显示如下：
+
+选取图片：
+仅需在images文件夹，即初始文件夹下选择图像（为方便批处理，最好选取第一张，主界面有next下一张快捷按钮），labels文件夹和images一一对应，图像会自动加载到主界面右边的canvas上；
+
+和images文件夹对应的labels文件夹：
+
+显示结果如下：
+
+取色标注：
+鼠标右键单击在右图中（或右上方调色板增加instance）选取颜色，再按住鼠标左键，在左图中移动可以重新修补标注（右图中会同步显示）；
+红色箭头：右击鼠标选取颜色；
+紫色箭头：在左图中按住鼠标左键并移动可以重新标注，同时右边图像同步更新；
+
+滑动条调节笔刷大小：
+
+保存图像：
+
+点击next进入下一张：
+
+最后一张：
+
+点击Exit退出程序：
