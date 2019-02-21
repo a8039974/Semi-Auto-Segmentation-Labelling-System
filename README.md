@@ -26,30 +26,44 @@ Instructions:
 Semi-Auto Segmentation Labelling System Manual
 
 整体布局：
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/1.png)
 
 初始界面：
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/2.png)
 
 软件说明书：
 点击Instruction，显示如下：
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/3.png)
 
 选取图片：
 仅需在images文件夹，即初始文件夹下选择图像（为方便批处理，最好选取第一张，主界面有next下一张快捷按钮），labels文件夹和images一一对应，图像会自动加载到主界面右边的canvas上；
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/4.png)
 
 和images文件夹对应的labels文件夹：
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/5.png)
 
 显示结果如下：
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/6.png)
 
 取色标注：
 鼠标右键单击在右图中（或右上方调色板增加instance）选取颜色，再按住鼠标左键，在左图中移动可以重新修补标注（右图中会同步显示）；
 红色箭头：右击鼠标选取颜色；
 紫色箭头：在左图中按住鼠标左键并移动可以重新标注，同时右边图像同步更新；
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/7.png)
 
 滑动条调节笔刷大小：
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/8.png)
 
 保存图像：
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/9.png)
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/10.png)
 
 点击next进入下一张：
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/11.png)
 
 最后一张：
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/12.png)
 
 点击Exit退出程序：
+![pic](https://github.com/francisliu2017/Semi-Auto-Segmentation-Labelling-System/blob/master/screenshots/13.png)
+
